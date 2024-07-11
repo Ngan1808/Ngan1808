@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Ngan
+- 🌱 I’m currently learning at University of Information Technology
+- 😄 I am currently working for Ybox.vn as content moderation intern and assistant to president.
 
 <!--
 **Ngan1808/Ngan1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
